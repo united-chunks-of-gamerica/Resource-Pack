@@ -6,8 +6,11 @@ The optional resource pack for the Gamerica Server.
 - [Direct Download](https://github.com/united-chunks-of-gamerica/Resource-Pack/releases/latest/download/Gamerica.zip)
 
 ## What it does 
+
 ### General
-- Changes title screen to display "GAMERICA" instead of "MINECRAFT"
+- Changes the title screen to display "GAMERICA" instead of "MINECRAFT"
+- Adds a panorama of Gamerica to the title screen
+- Changes the edition text to display the current phase of the server
 
 ### Golf
 - Remodels and retextures endermites to a golf ball. 
